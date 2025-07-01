@@ -1,1 +1,1 @@
-# vanitrope-tmpweb
+# Vanitrope temporary website
